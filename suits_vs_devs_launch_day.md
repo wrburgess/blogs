@@ -1,6 +1,6 @@
 #Suits vs Devs: Launch Day
 
-Over a decade of straddling the fence of manager and developer roles, I've seen actors on both sides find a way to poke each other with sticks and make projects more difficult (and costly) than they need to be. 
+Over a decade of straddling manager and developer roles, I've seen actors on both sides find a way to poke each other with sticks and make projects more difficult (and costly) than they need to be. 
 
 This blog series, **Suits vs Devs**, will jump into issues facing application development and discuss the perspectives of the biz and tech folk as they approach these challenges. Everything from TPS Report Assignments to Coding Cowboys are game to be torn apart in future posts. 
 
@@ -24,7 +24,9 @@ Despite thoughts to the contrary, the traditional Launch Day does have some reas
 
 Meeting in the middle on Launch/Release scenarios isn't that hard, but it takes communication *before* the project starts. Both sides should recognize that a single, empowering release day is counter-productive to the software development process. Likewise, both parties should agree there is a justifiable need for milestones that have a hightened sense of urgency.
 
-What I've found most successful is to find the Suit-based Launch Date, break it up into three or four Dev-based Release Dates, then assign them Suit and Dev-related nomenclature to keep both parties happy. It seems simplistic, but when both sides discuss feature expectations, change requests, and code stability around different release timelines, the added flexibility helps the scheduling issues a great deal. By the end of the project, the Suits are speaking in terms of Version numbers and Devs don't treat the Sales Launch with their typical disdain.
+What I've found most successful is to extract the Suit-based Launch Date, break it up into three or four Dev-based Release Dates, then assign those new dates Suit and Dev-related nomenclature to keep both parties happy. 
+
+It seems simplistic, but when both sides discuss feature expectations, change requests, and code stability around different release timelines, the added flexibility helps the scheduling issues a great deal. By the end of the project, the Suits are speaking in terms of Version numbers and Devs don't treat the Sales Launch with their typical disdain.
 
 ## Common Ground Found
 
