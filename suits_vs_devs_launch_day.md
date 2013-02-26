@@ -1,4 +1,4 @@
-#Suits vs Devs: Launch Day
+# Suits vs Devs: Launch Day
 
 Over a decade of straddling manager and developer roles, I've seen actors on both sides find a way to poke each other with sticks and make projects more difficult (and costly) than they need to be. 
 
@@ -20,9 +20,11 @@ Being that Suits have more power in setting up launch dates doesn't help the lac
 
 Despite thoughts to the contrary, the traditional Launch Day does have some reasoning behind it. Suits do have someone up the ladder, whether it's a boss or an investor, breathing down their necks to show where the budget funds are going. The dollars paying for development hours have to answer to something, at that's usually in the form of a launch date. Not to mention the other company arms (Sales, Marketing, etc) will need to ramp up support for the launch with deadlines of their own.
 
+Other possible dependencies for the launch date is a competitor's upcoming release, a trade show presentation, or a seasonal marketing blitz (think retail and the December Holidays). Devs need to keep in mind that these types of business constraints can be the difference between launching a product into success or wasting code on an instant flop. In this situation, Devs and Suits need to focus on what features are vital for an immovable deadline and start to think about adding cushion before it…
+
 ## Chop It Up
 
-Meeting in the middle on Launch/Release scenarios isn't that hard, but it takes communication *before* the project starts. Both sides should recognize that a single, empowering release day is counter-productive to the software development process. Likewise, both parties should agree there is a justifiable need for milestones that have a hightened sense of urgency.
+Meeting in the middle on Launch/Release scenarios isn't that hard, but it takes communication *before* the project starts. Both sides should recognize that a single, empowering release day is counter-productive to the software development process. Likewise, both parties should agree there is a justifiable need for milestones that have a heightened sense of urgency.
 
 What I've found most successful is to extract the Suit-based Launch Date, break it up into three or four Dev-based Release Dates, then assign those new dates Suit and Dev-related nomenclature to keep both parties happy. 
 
